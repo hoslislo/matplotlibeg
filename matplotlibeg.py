@@ -33,3 +33,5 @@ print "done2"
 plt.show()
 
 print "finished"
+
+print "post from new lt"
